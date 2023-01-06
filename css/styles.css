@@ -10,16 +10,19 @@ body {
 h2 {
   text-align: center;
 }
-.column {
-  background-color: gray;
-  float: left;
-  width: 30%;
-  height: 15%;
-  margin: auto;
-}
 h3 {
   text-align: center;
 }
 .center-columns {
   margin: auto;
+  width: 75%;
+  padding-bottom: 300px;
+  border: 3px solid green;
+  box-sizing: 515px 515px;
+}
+.column {
+  float: left;
+  width: 33.3%;
+  margin: auto;
+  box-sizing: border-box;
 }
