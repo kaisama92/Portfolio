@@ -28,6 +28,6 @@ _This application lays out Kai's Portfolio. Gives a brief look at who he is and 
 
 ## License
 
-_If any problems arise, feel free to reach out to Kai at kaiclausen123@gmail.com_
+_If any problems arise, feel free to reach out to Kai at <kaiclausen123@gmail.com>_
 
-Copyright (c) _1/6/2023_ _Kai Clausen_
+**Copyright (c) _1/6/2023_ _Kai Clausen_** 
