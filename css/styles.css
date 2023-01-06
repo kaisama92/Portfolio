@@ -1,6 +1,10 @@
 .title {
   text-align: center;
 }
+.underline {
+  color: red;
+  text-decoration: underline;
+}
 img {
   width: 25%;
 }
