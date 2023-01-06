@@ -18,6 +18,7 @@ _This application lays out Kai's Portfolio. Gives a brief look at who he is and 
 * _Clone this repository to your desktop._
 * _Navigate to the top level of the directory._
 * _Open index.html in your browser._
+* _Additionally you can deploy the finished product in you browser at https://kaisama92.github.io/Portfolio/ ._
 
 ## Known Bugs
 
