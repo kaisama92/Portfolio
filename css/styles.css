@@ -7,3 +7,19 @@ img {
 body {
   background-color: tan;
 }
+h2 {
+  text-align: center;
+}
+.column {
+  background-color: gray;
+  float: left;
+  width: 30%;
+  height: 15%;
+  margin: auto;
+}
+h3 {
+  text-align: center;
+}
+.center-columns {
+  margin: auto;
+}
