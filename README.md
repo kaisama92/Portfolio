@@ -4,6 +4,8 @@
 
 ##### _This Application Displays Kai's Portfolio_  
 
+---
+
 >## Technologies Used
 >
 >>* _HTML_
@@ -18,7 +20,7 @@ _This application lays out Kai's Portfolio. Gives a brief look at who he is and 
 | 1. Clone this repository to your desktop. |
 | 2. Navigate to the top level of the directory. |
 | 3. Open index.html in your browser. |
-| Additionally  you can deploy the finished product in your browser at https://kaisama92.github.io/Portfolio/ |
+| Additionally  you can deploy the finished product in your ***[browser](https://kaisama92.github.io/Portfolio/)***. |
 
 ## Known Bugs
 
