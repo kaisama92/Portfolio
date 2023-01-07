@@ -64,9 +64,10 @@ h3 {
     border: 2px solid yellow;    
   }
 }
-#Portland {
+#Portland::before {
   background-image: url(https://media.istockphoto.com/id/1149957034/photo/burlington-northern-railroad-bridge-and-mt-hood.jpg?s=1024x1024&w=is&k=20&c=ywGhSrWtcIPikPdqy7KITmR3DpuEtvNFNbu8NRjEvjo=);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-attachment: inherit;
+  background-size: 100% 100%;
+  background: opacity;
 }
