@@ -16,6 +16,12 @@ body {
 .title {
   text-align: center;
 }
+.container {
+  box-sizing: border-box;
+  width: 75%;
+  margin: 10px auto;
+  border: 4px solid black;
+}
 .underline {
   color: red;
   text-decoration: underline;
@@ -48,7 +54,7 @@ h3 {
 .column {
   float: left;
   width: 33.3%;
-  margin: auto;
+  margin: 10px auto;
   box-sizing: border-box;
 }
 @media screen and (max-width: 500px) {
@@ -57,4 +63,10 @@ h3 {
     width: 100%;
     border: 2px solid yellow;    
   }
+}
+#Portland {
+  background-image: url(https://media.istockphoto.com/id/1149957034/photo/burlington-northern-railroad-bridge-and-mt-hood.jpg?s=1024x1024&w=is&k=20&c=ywGhSrWtcIPikPdqy7KITmR3DpuEtvNFNbu8NRjEvjo=);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
